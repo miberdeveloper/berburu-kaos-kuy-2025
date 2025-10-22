@@ -9,3 +9,6 @@
 # Menambahkan Gambar
 ## Gambar 1
 ![Foto 1](./gambar/gita.jpg)
+
+## Gambar 2
+![Foto 2](./gambar/pusing.jpg)
